@@ -1,0 +1,9 @@
+variáveis Java
+
+
+
+String- armazena texto, como "Olá". Valores de string são cercados por aspas duplas
+int- armazena números inteiros (números inteiros), sem decimais, como 123 ou -123
+float- armazena números de ponto flutuante, com decimais, como 19,99 ou -19,99
+char- armazena caracteres únicos, como 'a' ou 'B'. Os valores char são cercados por aspas simples
+boolean- armazena valores com dois estados: verdadeiro ou falso
